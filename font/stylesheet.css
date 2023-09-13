@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Tilt Neon';
+    src: url('TiltNeon-Regular.eot');
+    src: local('Tilt Neon Regular'), local('TiltNeon-Regular'),
+        url('TiltNeon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TiltNeon-Regular.woff2') format('woff2'),
+        url('TiltNeon-Regular.woff') format('woff'),
+        url('TiltNeon-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

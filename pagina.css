@@ -1,0 +1,61 @@
+@font-face {
+    font-family: neon;
+    src: url(font/TiltNeon-Regular.ttf);
+}
+
+body{
+    font-size: 16px;
+    font-family: arial;
+    background: linear-gradient(#b3cce2, #D9CCC1);
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem; 
+    background:#005eb0;
+    color: #D9CCC1;;
+    
+}
+
+h2{
+    font-size: 1.5rem;
+    background:#005eb0;
+    color: #D9CCC1;;
+
+}
+
+
+p{
+    font-size: 1.5rem;
+    color: #024059;
+   
+}
+
+#paragrafo2{
+    position: relative;
+    left: 7rem;
+    color: black;
+}
+
+#paragrafo3{
+    font-size: 1.5rem;
+    font-family: neon;
+    text-align: justify;
+    position: relative;
+    top: 1rem;
+    left: 4rem;
+    
+}
+
+#autor{
+    font-family: italic;
+    position: relative;
+    left: 71rem;
+    color: darkslategray;
+}
+
+#negrito{
+    position: relative;
+    left: 4rem;
+}
